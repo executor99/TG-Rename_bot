@@ -1,10 +1,10 @@
 '''
 RenameBot
-This file is a part of mrvishal2k2 rename repo 
+This file is a part of executor rename repo 
 Dont kang !!!
-© Mrvishal2k2
+© executor
 '''
 
-__author__ = "MrVishal2k2"
-__email__ = "mrvishal2k2@pm.me"
+__author__ = "executor"
+__email__ = "notfound@pm.me"
 __version__ = "1.2"
